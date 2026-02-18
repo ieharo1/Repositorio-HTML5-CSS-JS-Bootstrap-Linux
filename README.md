@@ -1,30 +1,41 @@
-# Repositorio-HTML5-CSS-JS-Bootstrap-Linux
+# 🌐 Repositorio HTML5 CSS JS Bootstrap Linux
 
-Proyecto web con HTML5, CSS, JavaScript y Bootstrap para Linux.
+Proyecto web con HTML5, CSS, JavaScript y Bootstrap para Linux desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Colección de proyectos web que utilizan tecnologías frontend modernas optimizadas para Linux.
 
-## Características
+---
+
+## ✨ Características
 
 - Desarrollo frontend
 - Responsive design
 - Bootstrap framework
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
